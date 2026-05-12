@@ -1,4 +1,4 @@
-# 
+# Lunacy for macOS best Preset: gradient maps & 3D rendering is the best Lunacy for macOS preset, featuring gradient maps and 3D rendering. Safe, efficient, and optimized for
 
 
 
